@@ -1,0 +1,1 @@
+{"title":"Map right-shift + right-option to Equals","rules":[{"description":"Map right-shift + right-option to Equals","manipulators":[{"type":"basic","from":{"modifiers":{"mandatory":["right_shift"]},"key_code":"right_alt"},"to":[{"repeat":true,"key_code":"equal_sign"}]}]}]}
